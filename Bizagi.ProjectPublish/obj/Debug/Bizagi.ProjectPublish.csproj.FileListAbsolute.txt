@@ -1,0 +1,51 @@
+F:\00.OneDrive\OneDrive\Projetos visualstudio.com\BIZAGI\Bizagi\Bizagi.ProjectPublish\bin\Debug\Bizagi.ProjectPublish.exe.config
+F:\00.OneDrive\OneDrive\Projetos visualstudio.com\BIZAGI\Bizagi\Bizagi.ProjectPublish\bin\Debug\Bizagi.ProjectPublish.exe
+F:\00.OneDrive\OneDrive\Projetos visualstudio.com\BIZAGI\Bizagi\Bizagi.ProjectPublish\bin\Debug\Bizagi.ProjectPublish.pdb
+F:\00.OneDrive\OneDrive\Projetos visualstudio.com\BIZAGI\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.NewProjectPublish.resources
+F:\00.OneDrive\OneDrive\Projetos visualstudio.com\BIZAGI\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.ProjectPublish.resources
+F:\00.OneDrive\OneDrive\Projetos visualstudio.com\BIZAGI\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.Properties.Resources.resources
+F:\00.OneDrive\OneDrive\Projetos visualstudio.com\BIZAGI\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.csproj.GenerateResource.Cache
+F:\00.OneDrive\OneDrive\Projetos visualstudio.com\BIZAGI\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.exe
+F:\00.OneDrive\OneDrive\Projetos visualstudio.com\BIZAGI\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.pdb
+F:\00.OneDrive\OneDrive\Projetos visualstudio.com\BIZAGI\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.csprojResolveAssemblyReference.cache
+F:\0.Avaliar\00.OneDrive\OneDrive\Projetos visualstudio.com\BIZAGI\Bizagi\Bizagi.ProjectPublish\bin\Debug\Bizagi.ProjectPublish.exe.config
+F:\0.Avaliar\00.OneDrive\OneDrive\Projetos visualstudio.com\BIZAGI\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.exe
+F:\0.Avaliar\00.OneDrive\OneDrive\Projetos visualstudio.com\BIZAGI\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.pdb
+F:\0.Avaliar\00.OneDrive\OneDrive\Projetos visualstudio.com\BIZAGI\Bizagi\Bizagi.ProjectPublish\bin\Debug\Bizagi.ProjectPublish.exe
+F:\0.Avaliar\00.OneDrive\OneDrive\Projetos visualstudio.com\BIZAGI\Bizagi\Bizagi.ProjectPublish\bin\Debug\Bizagi.ProjectPublish.pdb
+F:\0.Avaliar\00.OneDrive\OneDrive\Projetos visualstudio.com\BIZAGI\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.NewProjectPublish.resources
+F:\0.Avaliar\00.OneDrive\OneDrive\Projetos visualstudio.com\BIZAGI\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.ProjectPublish.resources
+F:\0.Avaliar\00.OneDrive\OneDrive\Projetos visualstudio.com\BIZAGI\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.Properties.Resources.resources
+F:\0.Avaliar\00.OneDrive\OneDrive\Projetos visualstudio.com\BIZAGI\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.csproj.GenerateResource.Cache
+D:\BIZAGI .NET\Bizagi\Bizagi.ProjectPublish\bin\Debug\Bizagi.ProjectPublish.exe.config
+D:\BIZAGI .NET\Bizagi\Bizagi.ProjectPublish\bin\Debug\Bizagi.ProjectPublish.exe
+D:\BIZAGI .NET\Bizagi\Bizagi.ProjectPublish\bin\Debug\Bizagi.ProjectPublish.pdb
+D:\BIZAGI .NET\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.csprojResolveAssemblyReference.cache
+D:\BIZAGI .NET\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.NewProjectPublish.resources
+D:\BIZAGI .NET\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.ProjectPublish.resources
+D:\BIZAGI .NET\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.Properties.Resources.resources
+D:\BIZAGI .NET\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.csproj.GenerateResource.Cache
+D:\BIZAGI .NET\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.exe
+D:\BIZAGI .NET\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.pdb
+\\gbi-0017\c$\Users\rodrigo.agostini\Documents\00  - Rodrigo - Google Drive\01-Profissional\Projetos .NET\Bizagi\Bizagi.ProjectPublish\bin\Debug\Bizagi.ProjectPublish.exe.config
+\\gbi-0017\c$\Users\rodrigo.agostini\Documents\00  - Rodrigo - Google Drive\01-Profissional\Projetos .NET\Bizagi\Bizagi.ProjectPublish\bin\Debug\Bizagi.ProjectPublish.exe
+\\gbi-0017\c$\Users\rodrigo.agostini\Documents\00  - Rodrigo - Google Drive\01-Profissional\Projetos .NET\Bizagi\Bizagi.ProjectPublish\bin\Debug\Bizagi.ProjectPublish.pdb
+\\gbi-0017\c$\Users\rodrigo.agostini\Documents\00  - Rodrigo - Google Drive\01-Profissional\Projetos .NET\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.csprojResolveAssemblyReference.cache
+\\gbi-0017\c$\Users\rodrigo.agostini\Documents\00  - Rodrigo - Google Drive\01-Profissional\Projetos .NET\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.NewProjectPublish.resources
+\\gbi-0017\c$\Users\rodrigo.agostini\Documents\00  - Rodrigo - Google Drive\01-Profissional\Projetos .NET\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.ProjectPublish.resources
+\\gbi-0017\c$\Users\rodrigo.agostini\Documents\00  - Rodrigo - Google Drive\01-Profissional\Projetos .NET\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.Properties.Resources.resources
+\\gbi-0017\c$\Users\rodrigo.agostini\Documents\00  - Rodrigo - Google Drive\01-Profissional\Projetos .NET\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.csproj.GenerateResource.cache
+\\gbi-0017\c$\Users\rodrigo.agostini\Documents\00  - Rodrigo - Google Drive\01-Profissional\Projetos .NET\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.csproj.CoreCompileInputs.cache
+\\gbi-0017\c$\Users\rodrigo.agostini\Documents\00  - Rodrigo - Google Drive\01-Profissional\Projetos .NET\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.exe
+\\gbi-0017\c$\Users\rodrigo.agostini\Documents\00  - Rodrigo - Google Drive\01-Profissional\Projetos .NET\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.pdb
+C:\Repositório\Google Drive\01-Profissional\Projetos .NET\Bizagi\Bizagi.ProjectPublish\bin\Debug\Bizagi.ProjectPublish.exe.config
+C:\Repositório\Google Drive\01-Profissional\Projetos .NET\Bizagi\Bizagi.ProjectPublish\bin\Debug\Bizagi.ProjectPublish.exe
+C:\Repositório\Google Drive\01-Profissional\Projetos .NET\Bizagi\Bizagi.ProjectPublish\bin\Debug\Bizagi.ProjectPublish.pdb
+C:\Repositório\Google Drive\01-Profissional\Projetos .NET\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.csprojAssemblyReference.cache
+C:\Repositório\Google Drive\01-Profissional\Projetos .NET\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.NewProjectPublish.resources
+C:\Repositório\Google Drive\01-Profissional\Projetos .NET\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.ProjectPublish.resources
+C:\Repositório\Google Drive\01-Profissional\Projetos .NET\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.Properties.Resources.resources
+C:\Repositório\Google Drive\01-Profissional\Projetos .NET\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.csproj.GenerateResource.cache
+C:\Repositório\Google Drive\01-Profissional\Projetos .NET\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.csproj.CoreCompileInputs.cache
+C:\Repositório\Google Drive\01-Profissional\Projetos .NET\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.exe
+C:\Repositório\Google Drive\01-Profissional\Projetos .NET\Bizagi\Bizagi.ProjectPublish\obj\Debug\Bizagi.ProjectPublish.pdb

@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<configuracao>
+  <Ambiente>
+    <Servidor>processos.biancogres.com.br</Servidor>
+    <Projeto>bizagi_prod</Projeto>
+    <DirPadrao>C:\Bizagi\Enterprise\Projects\bizagi_prod</DirPadrao>
+    <GUID>f29c5ead-e034-45f1-bfbd-857d229cbf34</GUID>
+  </Ambiente>
+  <Ambiente>
+    <Servidor>processos.biancogres.com.br</Servidor>
+    <Projeto>bizagi_test</Projeto>
+    <DirPadrao>E:\Enterprise\Projects\BIZAGI_Test</DirPadrao>
+    <GUID>71dc0173-67dd-4177-ab36-c6e49c8bc4e1</GUID>
+  </Ambiente>
+  <Ambiente>
+    <Servidor>processos.biancogres.com.br</Servidor>
+    <Projeto>biancogres_bizagi</Projeto>
+    <DirPadrao>E:\Enterprise\Projects\biancogres_bizagi</DirPadrao>
+    <GUID>3065f0f6-cc1c-41a4-a6d5-fe34388fcd85</GUID>
+  </Ambiente>
+  <Ambiente>
+    <Servidor>nice</Servidor>
+    <Projeto>BizagiProcessos</Projeto>
+    <DirPadrao>C:\Bizagi\Enterprise\Projects\BizagiProcessos</DirPadrao>
+    <GUID>041173ae-506e-495b-b121-ff5bc54c65ee</GUID>
+  </Ambiente>
+</configuracao>
